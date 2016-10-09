@@ -2,4 +2,8 @@ caszxxcb
 gewvds
 textน๙ฯþมมน๙ฯþมมน๙ฯþมมน๙ฯþมมน๙ฯþมมน๙
 aaaaaaa
+<<<<<<< HEAD
 อ๕พฒพฉ
+=======
+ษตษตษต
+>>>>>>> origin/master
